@@ -1,0 +1,5 @@
+No divergence time: 0.036672 ms
+With divergence time: 0.036448 ms
+
+Time for non-divergent kernel: 1.587232 ms
+Time for divergent kernel: 0.054272 ms
